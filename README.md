@@ -9,9 +9,9 @@ The Report can be found here: [Report]()
   3. [Census Income](https://archive.ics.uci.edu/dataset/20/census+income)
 
 ## Two-Class-Classification Problems:
-  1. [Presence of Heart Disease Prediction]()
-  2. [Acceptable+ Evaluation Predicition]()
-  3. [Income Prediction]()
+  1. [Presence of Heart Disease Prediction](https://github.com/mabdilahCSE/ML-Two-Class-Classification-Project/blob/main/Heart%20Disease/ClevelandHeartDisease.ipynb)
+  2. [Acceptable+ Car Evaluation Predicition](https://github.com/mabdilahCSE/ML-Two-Class-Classification-Project/blob/main/Car%20Evaluation/CarEvaluation.ipynb)
+  3. [Income Prediction](https://github.com/mabdilahCSE/ML-Two-Class-Classification-Project/blob/main/Census%20Income/CensusIncome.ipynb)
 
 ## Machine Learning Algorithms Used:
   1. [K-Nearest Neighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
