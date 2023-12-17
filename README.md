@@ -1,7 +1,7 @@
 # ML-Two-Class-Classification-Project
 
 ## Report:
-The Report can be found here: [Report]()
+The Report can be found here: [Report](https://github.com/mabdilahCSE/ML-Two-Class-Classification-Project/blob/main/Report%20-%20Mohamed%20Abdilahi.pdf)
 
 ## Datasets Used:
   1. [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
